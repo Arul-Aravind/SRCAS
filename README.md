@@ -3,7 +3,7 @@
 ## Overview
 
 LINK OF THE IMPLEMENTED PROJECT: ADMIN LINK: https://luminaxr-access.vercel.app/admin
-username: admin
+username: admin ;
 password: admin@123
 
 FOR DEMO PURPOSES ONLY.
