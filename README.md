@@ -2,6 +2,15 @@
 
 ## Overview
 
+LINK OF THE IMPLEMENTED PROJECT: ADMIN LINK: https://luminaxr-access.vercel.app/admin
+username: admin
+password: admin@123
+
+FOR DEMO PURPOSES ONLY.
+
+PUBLIC LINK: https://luminaxr-access.vercel.app/hub
+
+
 LuminaXR Access is a browser-based assistive interaction platform for people who cannot reliably use a mouse, touch screen, or physical switch. A standard webcam becomes a hands-free input device: deliberate head movement guides a stabilized pointer, sustained intent builds dwell evidence, and qualified targets activate without a click.
 
 The submission includes guided camera setup, evidence-based calibration, a shared access hub, six practical access modules, system preferences, privacy explanations, presenter telemetry, and a Control Lab for inspecting the interaction pipeline.
